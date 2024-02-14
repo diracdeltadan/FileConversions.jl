@@ -1,0 +1,13 @@
+name = "FileConversions"
+uuid = "cfacbeab-5758-4d81-8d57-d3cbed41406e"
+authors = ["Dan Stevens"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
